@@ -40,8 +40,8 @@ RESTful &Microservices, Web API, gRPC, ASP.NET, Entity framework, WCF/WPF, WinFo
 Grafana/Loki, Prometheus, Datadog, Kibana, Slack API, SendGrid API, Pager Duty API, Log4Net, Serilog, Autosys & Power BI tool 
 
 
-
-
-
-
 📫 How to reach me: nitin.er@gmail.com
+
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="![image](https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png)"/>
+</a>
