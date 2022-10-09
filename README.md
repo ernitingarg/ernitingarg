@@ -17,10 +17,11 @@ I am individual contributor as well as very good to play multiple side roles in 
 -	Experience as global release/deployment management
 -	Experience as people management upto 8-15 members.
 
-![](https://github.com/ernitingarg09/github-stats/blob/master/generated/languages.svg)
-
 
 ### Technical skills:
+
+![](https://github.com/ernitingarg09/github-stats/blob/master/generated/languages.svg)
+
 
 #### Programming Languages: 
 .Net C#, python, Solidity, Rust, GO, JavaScript, Typescript, Node JS, React JS, C++, PL-SQL, scripting languages (bash, PowerShell), C
