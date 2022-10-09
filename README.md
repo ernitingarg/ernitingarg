@@ -1,5 +1,7 @@
 ### Hi there, I'm Nitin Garg 👋
 
+[![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernitingarg09&show_icons=true)](https://github.com/ernitingarg09/github-readme-stats)
+
 I'm software deleveloper and blockchain Engineer living in Tokyo/Japan. 
 
 I have expertise in writting backend applications with experience in multiple programming languages including .Net C#, python, JavaScript, Typescript, Rust, GO, Node JS, React JS, C/C++, scripting languages (bash, PowerShell).
@@ -17,11 +19,9 @@ I am individual contributor as well as very good to play multiple side roles in 
 -	Experience as global release/deployment management
 -	Experience as people management upto 8-15 members.
 
-
 ### Technical skills:
 
-![](https://github.com/ernitingarg09/github-stats/blob/master/generated/languages.svg)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernitingarg09&langs_count=30&layout=compact)](https://github.com/ernitingarg09/github-readme-stats)
 
 #### Programming Languages: 
 .Net C#, python, Solidity, Rust, GO, JavaScript, Typescript, Node JS, React JS, C++, PL-SQL, scripting languages (bash, PowerShell), C
