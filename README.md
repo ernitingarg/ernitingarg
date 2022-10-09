@@ -19,7 +19,7 @@ I am individual contributor as well as very good to play multiple side roles in 
 -	Experience as global release/deployment management
 -	Experience as people management upto 8-15 members.
 
-### Technical skills:
+### Technical skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernitingarg09&langs_count=30&layout=compact)](https://github.com/ernitingarg09/github-readme-stats)
 
@@ -40,8 +40,8 @@ RESTful &Microservices, Web API, gRPC, ASP.NET, Entity framework, WCF/WPF, WinFo
 Grafana/Loki, Prometheus, Datadog, Kibana, Slack API, SendGrid API, Pager Duty API, Log4Net, Serilog, Autosys & Power BI tool 
 
 
-📫 How to reach me: nitin.er@gmail.com
+### Let's Connect 💬
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="![image](https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png)"/>
+<a href="https://www.linkedin.com/in/nitin-garg-50752b108/">
+  <img height="40" src="https://user-images.githubusercontent.com/20875452/194767635-6493ad73-f1c4-447b-94d2-b49e6471ac10.png"/>
 </a>
