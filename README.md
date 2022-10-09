@@ -17,5 +17,24 @@ I am individual contributor as well as very good to play multiple side roles in 
 -	Experience as global release/deployment management
 -	Experience as people management upto 8-15 members.
 
+Below is a quick summary about my technical skills:
+
+#### Programming Languages: 
+.Net C#, python, Solidity, Rust, GO, JavaScript, Typescript, Node JS, React JS, C++, PL-SQL, scripting languages (bash, PowerShell), C
+#### Blockchain & Cryptocurrency: 
+Solana, NFTs, IPFS, Bitcoin, Ethereum, Hyperledger fabric, tendermint, Solidity, Remix-IDE. (FTX apis, byBit apis, Uniswap apis, GraphQL etc)
+Cryptocurrency trading and exchange backend applications. 
+#### Cloud Computing:  
+Microsoft Azure, Google clouding platform (GCP)
+#### Database & NoSQL: 
+RocksDB, Redis cache, MS SQL Server, ORACLE 12g, Data bricks, Data Lake, Cosmos Db, Mongo DB
+#### DevOps & CI/CD:
+Docker, Jenkins, GitLab/GitHub, GIT (gerrit), TeamCity, N-Cover, Sonar, Clearcase, TFS
+#### Web & Windows: 
+RESTful &Microservices, Web API, gRPC, ASP.NET, Entity framework, WCF/WPF, WinForms, MVC, ADO.NET. 
+#### Monitoring API: 
+Grafana/Loki, Prometheus, Datadog, Kibana, Slack API, SendGrid API, Pager Duty API, Log4Net, Serilog, Autosys & Power BI tool 
+
+
 
 📫 How to reach me: nitin.er@gmail.com
