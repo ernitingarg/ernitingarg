@@ -4,7 +4,7 @@
 
 I'm software deleveloper and blockchain Engineer living in Tokyo/Japan. 
 
-I have expertise in writting backend applications with experience in multiple programming languages including .Net C#, python, JavaScript, Typescript, Rust, GO, Node JS, React JS, C/C++, scripting languages (bash, PowerShell).
+I have expertise in writting backend applications with experience in multiple programming languages mentioned in below section.
 
 I'm quick learner and enthusiastic to learn new technologies. I enjoy coding and designing software architecture.
 
