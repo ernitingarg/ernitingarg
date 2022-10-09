@@ -6,7 +6,7 @@ I have expertise in writting backend applications with experience in multiple pr
 
 I'm quick learner and enthusiastic to learn new technologies. I enjoy coding and designing software architecture.
 
-I am individual contributor as well as very good to play multiple side roles in well balanced way. Below are some of my experiences and roles which i am playing with my current orgranization.
+I am individual contributor as well as very good to play multiple side roles in well balanced way. Below are some of my key experiences and roles which i am currenty playing.
 
 -	Experience as Technical Lead & Software Architect
 -	Experience as Blockchain engineer
@@ -34,6 +34,7 @@ Docker, Jenkins, GitLab/GitHub, GIT (gerrit), TeamCity, N-Cover, Sonar, Clearcas
 RESTful &Microservices, Web API, gRPC, ASP.NET, Entity framework, WCF/WPF, WinForms, MVC, ADO.NET. 
 #### Monitoring API: 
 Grafana/Loki, Prometheus, Datadog, Kibana, Slack API, SendGrid API, Pager Duty API, Log4Net, Serilog, Autosys & Power BI tool 
+
 
 
 
