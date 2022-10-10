@@ -39,9 +39,14 @@ RESTful &Microservices, Web API, gRPC, ASP.NET, Entity framework, WCF/WPF, WinFo
 #### Monitoring API: 
 Grafana/Loki, Prometheus, Datadog, Kibana, Slack API, SendGrid API, Pager Duty API, Log4Net, Serilog, Autosys & Power BI tool 
 
-
 ### Let's Connect 💬
 
 <a href="https://www.linkedin.com/in/nitin-garg-50752b108/">
   <img height="40" src="https://user-images.githubusercontent.com/20875452/194767635-6493ad73-f1c4-447b-94d2-b49e6471ac10.png"/>
 </a>
+
+<a href="https://www.hackerrank.com/nitin_er/">
+  <img height="45" src="https://user-images.githubusercontent.com/20875452/194902984-618d6e4c-3ec8-4a6f-883d-248f42bcd8a2.png"/>
+</a>
+
+
