@@ -23,21 +23,34 @@ I am individual contributor as well as very good to play multiple side roles in 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernitingarg09&langs_count=30&layout=compact)](https://github.com/ernitingarg09)
 
-#### Programming Languages: 
-.Net C#, python, Solidity, Rust, GO, JavaScript, Typescript, Node JS, React JS, C++, PL-SQL, scripting languages (bash, PowerShell), C
-#### Blockchain & Cryptocurrency: 
-Solana, NFTs, IPFS, Bitcoin, Ethereum, Hyperledger fabric, tendermint, Solidity, Remix-IDE. (FTX apis, byBit apis, Uniswap apis, GraphQL etc)
-Cryptocurrency trading and exchange backend applications. 
-#### Cloud Computing:  
-Microsoft Azure, Google clouding platform (GCP)
-#### Database & NoSQL: 
-RocksDB, Redis cache, MS SQL Server, ORACLE 12g, Data bricks, Data Lake, Cosmos Db, Mongo DB
+#### Programming Languages
+- .NET C#, Python, JavaScript, TypeScript, scripting languages (Bash, PowerShell)
+- Rust, Go, Solidity, Node.js, React.js, C++, C.
+#### Blockchain & Cryptocurrency:
+- Hyperledger Fabric, Tendermint, Solana, NFTs, Bitcoin, Ethereum
+- ByBit APIs, FTX APIs, Uniswap APIs, GraphQL
+#### Cloud Computing:
+- Microsoft Azure, AWS, Google Cloud Platform (GCP)
 #### DevOps & CI/CD:
-Docker, Jenkins, GitLab/GitHub, GIT (gerrit), TeamCity, N-Cover, Sonar, Clearcase, TFS
-#### Web & Windows: 
-RESTful &Microservices, Web API, gRPC, ASP.NET, Entity framework, WCF/WPF, WinForms, MVC, ADO.NET. 
-#### Monitoring API: 
-Grafana/Loki, Prometheus, Datadog, Kibana, Slack API, SendGrid API, Pager Duty API, Log4Net, Serilog, Autosys & Power BI tool 
+- Docker and containers, Linux/Windows, CI/CD, Jenkins
+- GitLab/GitHub, Git(Gerrit), TeamCity, ClearCase, TFS
+- N-Cover, Sonar
+#### Database & NoSQL:
+- MS SQL Server, Oracle 12g, Redis cache
+- RocksDB, Cosmos DB, MongoDB, Data Lake
+#### Web & Windows:
+- RESTful & Microservices, Web API, gRPC
+- ASP.NET, Entity Framework, WCF/WPF, WinForms, MVC, ADO.NET
+#### Monitoring API:
+- Grafana/Loki, Prometheus, Promtail
+- Datadog, Kibana, Log4Net, Serilog
+- Slack API, SendGrid API, PagerDuty API, Autosys
+#### Middleware:
+- Multithreading, Cloud Service Bus, SWIFT Message
+- TIBCO RV/EMS, IBM MQ, MSMQ
+#### Testing Framework & Mocking:
+- NUnit, XUnit, MBUnit, MSTest (Visual Studio), Moq, RhinoMoq, 
+- RPF automation framework.
 
 ### Let's Connect 💬
 
