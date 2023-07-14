@@ -10,14 +10,14 @@ I'm quick learner and enthusiastic to learn new technologies. I enjoy coding and
 
 I am individual contributor as well as very good to play multiple side roles in well balanced way. Below are some of my key experiences and roles which i am currenty playing.
 
--	Experience as Technical Lead & Software Architect
--	Experience as Blockchain engineer
--	Experience as Backend engineer
--	Experience as Cloud engineer (Azure, GCP)
--	Experience as DevOps engineer
--	Experience as Production, Database and SRE engineer
--	Experience as global release/deployment management
--	Experience as people management upto 8-15 members.
+o Technical Lead & Software Architect roles
+o Proficiency as a Backend engineer
+o Experience as a Blockchain engineer
+o Cloud engineer experience with Azure, AWS, and GCP
+o Experience as a DevOps engineer, including knowledge of Azure DevOps
+o Experience as a Production, Database, and SRE engineer
+o Demonstrated expertise in global release and deployment management
+o	Experience as people management upto 8-15 members.
 
 ### Technical skills
 
