@@ -24,15 +24,16 @@ I am individual contributor as well as very good to play multiple side roles in 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernitingarg09&langs_count=30&layout=compact)](https://github.com/ernitingarg09)
 
 #### Programming Languages
-- .NET C#, Python, JavaScript, TypeScript, scripting languages (Bash, PowerShell)
-- Rust, Go, Solidity, Node.js, React.js, C++, C.
+- .NET C#, Python, JavaScript, TypeScript, Node.js
+- Rust, Go, Solidity, React.js, C++, C.
 #### Blockchain & Cryptocurrency:
 - Hyperledger Fabric, Tendermint, Solana, NFTs, Bitcoin, Ethereum
 - ByBit APIs, FTX APIs, Uniswap APIs, GraphQL
 #### Cloud Computing:
 - Microsoft Azure, AWS, Google Cloud Platform (GCP)
 #### DevOps & CI/CD:
-- Docker and containers, Linux/Windows, CI/CD, Jenkins
+- Terraform, Ansible, scripting languages (Bash, PowerShell)
+- Docker and containers, Linux/Windows, Jenkins
 - GitLab/GitHub, Git(Gerrit), TeamCity, ClearCase, TFS
 - N-Cover, Sonar
 #### Database & NoSQL:
