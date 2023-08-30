@@ -19,6 +19,10 @@ I am individual contributor as well as very good to play multiple side roles in 
 - Demonstrated expertise in global release and deployment management
 -	Experience as people management upto 8-15 members.
 
+### Blogs
+- [How to create free certificates using Lets Encrypt](https://dev.to/ernitingarg09/how-to-create-free-certificate-with-lets-encrypt-453n)
+- [How to create memory dump on Linux for dotnet application](https://dev.to/ernitingarg09/how-to-create-and-analyze-memory-dumps-for-dotnet-applications-in-linux-3o8m)
+
 ### Technical skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernitingarg09&langs_count=30&layout=compact)](https://github.com/ernitingarg09)
