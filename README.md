@@ -17,7 +17,7 @@ I am individual contributor as well as very good to play multiple side roles in 
 - Experience as a DevOps engineer, including knowledge of Azure DevOps
 - Experience as a Production, Database, and SRE engineer
 - Demonstrated expertise in global release and deployment management
--	Experience as people management upto 8-15 members.
+-	Experience as people management
 
 ### Blogs
 - [How to create free certificates using Lets Encrypt](https://dev.to/ernitingarg09/how-to-create-free-certificate-with-lets-encrypt-453n)
