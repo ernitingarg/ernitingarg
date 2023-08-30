@@ -22,6 +22,7 @@ I am individual contributor as well as very good to play multiple side roles in 
 ### Blogs
 - [How to create free certificates using Lets Encrypt](https://dev.to/ernitingarg09/how-to-create-free-certificate-with-lets-encrypt-453n)
 - [How to create memory dump on Linux for dotnet application](https://dev.to/ernitingarg09/how-to-create-and-analyze-memory-dumps-for-dotnet-applications-in-linux-3o8m)
+- Many more to come...!
 
 ### Technical skills
 
