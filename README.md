@@ -43,7 +43,7 @@ I am individual contributor as well as very good to play multiple side roles in 
 - GitLab/GitHub, Git(Gerrit), TeamCity, ClearCase, TFS
 - N-Cover, Sonar
 #### Database & NoSQL:
-- MS SQL Server, Oracle 12g, Redis cache
+- POstgres, MYSQL, SQL Server, Oracle 12g, Redis cache
 - RocksDB, Cosmos DB, MongoDB, Data Lake
 #### Web & Windows:
 - RESTful & Microservices, Web API, gRPC
