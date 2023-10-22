@@ -22,6 +22,7 @@ I am individual contributor as well as very good to play multiple side roles in 
 ### Blogs
 - [How to create free certificates using Lets Encrypt](https://dev.to/ernitingarg/how-to-create-free-certificate-with-lets-encrypt-453n)
 - [How to create memory dump on Linux for dotnet application](https://dev.to/ernitingarg/how-to-create-and-analyze-memory-dumps-for-dotnet-applications-in-linux-3o8m)
+- [Desgin patterns in c#](https://dev.to/ernitingarg/design-pattern-using-c-614)
 - Many more to come...!
 
 ### Technical skills
@@ -29,8 +30,8 @@ I am individual contributor as well as very good to play multiple side roles in 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernitingarg&langs_count=30&layout=compact)](https://github.com/ernitingarg)
 
 #### Programming Languages
-- .NET C#, Python, JavaScript, TypeScript, Node.js
-- Rust, Go, Solidity, React.js, C++, C.
+- TypeScript, Node.js, Javascript, Golang, .NET C#, Python 
+- Rust, Solidity, React.js, C++, C.
 #### Blockchain & Cryptocurrency:
 - Hyperledger Fabric, Tendermint, Solana, NFTs, Bitcoin, Ethereum
 - ByBit APIs, FTX APIs, Uniswap APIs, GraphQL
@@ -57,20 +58,6 @@ I am individual contributor as well as very good to play multiple side roles in 
 #### Testing Framework & Mocking:
 - NUnit, XUnit, MBUnit, MSTest (Visual Studio), Moq, RhinoMoq, 
 - RPF automation framework.
-
-### Let's Connect 💬
-
-<a href="https://www.linkedin.com/in/ernitingarg/">
-  <img height="40" src="https://user-images.githubusercontent.com/20875452/194767635-6493ad73-f1c4-447b-94d2-b49e6471ac10.png"/>
-</a>
-
-<a href="https://github.com/ernitingarg/ernitingarg/blob/master/whatsapp.png">
-  <img height="40" src="https://user-images.githubusercontent.com/20875452/194904880-a4685acc-5cf3-49de-a8ae-3d95ce91b021.png"/>
-</a>
-
-<a href="https://www.hackerrank.com/nitin_er/">
-  <img height="45" src="https://user-images.githubusercontent.com/20875452/194902984-618d6e4c-3ec8-4a6f-883d-248f42bcd8a2.png"/>
-</a>
 
 
 
