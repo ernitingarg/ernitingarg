@@ -1,6 +1,4 @@
-### Hi there, I'm Nitin Garg 👋
-
-[![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernitingarg&show_icons=true)](https://github.com/ernitingarg)
+### Hi!! I'm Nitin Garg 👋
 
 I'm software deleveloper and blockchain Engineer living in Tokyo/Japan. 
 
@@ -59,6 +57,6 @@ I am individual contributor as well as very good to play multiple side roles in 
 - NUnit, XUnit, MBUnit, MSTest (Visual Studio), Moq, RhinoMoq, 
 - RPF automation framework.
 
-
+[![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernitingarg&show_icons=true)](https://github.com/ernitingarg)
 
 
