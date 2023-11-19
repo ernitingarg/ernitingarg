@@ -1,6 +1,6 @@
 ### Hi!! I'm Nitin Garg 👋
 
-I'm software deleveloper and blockchain Engineer living in Tokyo/Japan. 
+I'm lead software developer and blockchain engineer living in Tokyo/Japan. 
 
 I have expertise in writting backend applications with experience in multiple programming languages mentioned in below section.
 
