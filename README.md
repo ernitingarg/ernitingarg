@@ -32,10 +32,12 @@ I am individual contributor as well as very good to play multiple side roles in 
 - Rust, Solidity, React.js, C++, C.
 #### Blockchain & Cryptocurrency:
 - Hyperledger Fabric, Tendermint, Solana, NFTs, Bitcoin, Ethereum
+- TheGraph (Subgraph), irys, arweave
 - ByBit APIs, FTX APIs, Uniswap APIs, GraphQL
 #### Cloud Computing:
 - Microsoft Azure, AWS, Google Cloud Platform (GCP)
 #### DevOps & CI/CD:
+- AWS CDK cloud formation
 - Terraform, Ansible, scripting languages (Bash, PowerShell)
 - Docker and containers, Linux/Windows, Jenkins
 - GitLab/GitHub, Git(Gerrit), TeamCity, ClearCase, TFS
